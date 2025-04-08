@@ -3,8 +3,6 @@
 Este proyecto es una calculadora interactiva para encontrar combinaciones de resistencias estándar que permiten obtener una tensión de salida deseada (Vout) a partir de una tensión de entrada (Vin) usando un divisor resistivo.
 
 💻 **Demo en vivo**: [Ir a la calculadora](https://pibsas.github.io/divcalc/)  
-*(Cambiar el enlace al que corresponda a tu GitHub Pages)*
-
 ---
 
 ## 📐 Fórmula del divisor
