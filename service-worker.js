@@ -1,12 +1,12 @@
 const CACHE_NAME = 'divisor-v-cache-v1';
 const URLS_TO_CACHE = [
-  '.',
-  'index.html',
-  'style.css',
-  'script.js',
-  'manifest.json',
-  'icon-192.png',
-  'icon-512.png'
+  '/divcalc/',
+  '/divcalc/index.html',
+  '/divcalc/style.css',
+  '/divcalc/script.js',
+  '/divcalc/manifest.json',
+  '/divcalc/icon-192.png',
+  '/divcalc/icon-512.png'
 ];
 
 self.addEventListener('install', event => {
