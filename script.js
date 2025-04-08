@@ -31,6 +31,7 @@ function calcular() {
   if (resultados.length === 0) {
     tbody.innerHTML = `<tr><td colspan="4">❌ No se encontraron combinaciones dentro del margen de error especificado.</td></tr>`;
   } else {
+    resultados.sort((a, b) => a.error - b.error);
     resultados.forEach(res => {
       const row = document.createElement('tr');
       row.innerHTML = `
