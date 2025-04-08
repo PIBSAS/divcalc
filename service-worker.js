@@ -4,7 +4,7 @@ const URLS_TO_CACHE = [
   '/divcalc/index.html',
   '/divcalc/style.css',
   '/divcalc/script.js',
-  '/divcalc/manifest.json',
+  '/divcalc/site.webmanifest',
   '/divcalc/icon-192.png',
   '/divcalc/icon-512.png'
 ];
